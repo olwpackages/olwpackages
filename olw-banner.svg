@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020817"></stop>
+      <stop offset="50%" stop-color="#061b3d"></stop>
+      <stop offset="100%" stop-color="#020b18"></stop>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#031a38"></stop>
+      <stop offset="35%" stop-color="#07518a"></stop>
+      <stop offset="50%" stop-color="#0a75ad"></stop>
+      <stop offset="70%" stop-color="#064576"></stop>
+      <stop offset="100%" stop-color="#02172f"></stop>
+
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.7 0;0.7 0;-0.7 0" dur="8s" repeatCount="indefinite"></animateTransform>
+    </linearGradient>
+
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8bd7ff"></stop>
+      <stop offset="50%" stop-color="#299eea"></stop>
+      <stop offset="100%" stop-color="#0870b8"></stop>
+    </linearGradient>
+
+    <clipPath id="rounded">
+      <rect width="1200" height="300" rx="24"></rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+
+    <!-- Background -->
+    <rect width="1200" height="300" fill="url(#bg)"></rect>
+
+    <!-- Ocean -->
+    <path d="M-100 225
+         C120 160 270 285 480 220
+         S850 165 1300 225
+         L1300 330
+         L-100 330 Z" fill="url(#wave)" opacity="0.9">
+
+      <animateTransform attributeName="transform" type="translate" values="0 0;-55 6;0 0;55 -5;0 0" dur="11s" repeatCount="indefinite"></animateTransform>
+    </path>
+
+    <!-- Waves -->
+    <path d="M-100 240
+         C120 185 280 295 500 235
+         S900 185 1300 240" fill="none" stroke="#238dcc" stroke-width="2" opacity="0.35">
+
+      <animateTransform attributeName="transform" type="translate" values="-25 0;35 3;-25 0" dur="7s" repeatCount="indefinite"></animateTransform>
+    </path>
+
+    <path d="M-100 95
+         C150 45 300 125 520 85
+         S900 50 1300 100" fill="none" stroke="#2688bd" stroke-width="1.5" opacity="0.15">
+
+      <animateTransform attributeName="transform" type="translate" values="30 0;-30 0;30 0" dur="9s" repeatCount="indefinite"></animateTransform>
+    </path>
+
+    <!-- Particles -->
+    <g fill="#65c8ff" opacity="0.25">
+      <circle cx="120" cy="70" r="2"></circle>
+      <circle cx="300" cy="45" r="1.5"></circle>
+      <circle cx="760" cy="65" r="2"></circle>
+      <circle cx="1050" cy="140" r="1.5"></circle>
+      <circle cx="890" cy="215" r="2"></circle>
+      <circle cx="170" cy="190" r="1.5"></circle>
+    </g>
+
+    <!-- Name -->
+    <text x="600" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="bold" letter-spacing="-3" fill="url(#name)">
+      olw
+    </text>
+
+    <!-- Description -->
+    <text x="600" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" letter-spacing="2" fill="#9bdcff">
+      C++ · Creator · Minecraft
+    </text>
+
+    <!-- Border -->
+    <rect x="1" y="1" width="1198" height="298" rx="24" fill="none" stroke="#1674a8" stroke-width="2" opacity="0.4"></rect>
+
+  </g>
+</svg>
