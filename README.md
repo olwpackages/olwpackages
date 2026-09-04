@@ -14,6 +14,16 @@
 
 ---
 
+## 📊 GitHub Progress
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olwpackages&hide_border=true&background=05010a&ring=7e22ce&fire=A855F7&currStreakLabel=7e22ce&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub streak" />
+
+</div>
+
+<br>
+
 ## 📖 Repository
 
 <div align="center">
@@ -34,7 +44,7 @@ Minimalist VPN client for NixOS · Electron · sing-box
 <br>
 
 <a href="https://github.com/olwpackages/Nixvpn">
-<img src="https://img.shields.io/badge/Open%20Repository-1677ff?style=for-the-badge&logo=github&logoColor=white&height=24" alt="Open Repository">
+<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=for-the-badge&logo=github&logoColor=white&height=24" alt="Open repository">
 </a>
 
 </td>
