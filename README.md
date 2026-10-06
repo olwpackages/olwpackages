@@ -40,7 +40,9 @@ VPN client for NixOS · Electron
 
 <br><br>
 
-<a href="https://github.com/olwpackages/Nixvpn">Open repository</a>
+<a href="https://github.com/olwpackages/Nixvpn">
+<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=flat&logo=github&logoColor=white" alt="Open repository">
+</a>
 
 </td>
 <td width="260" align="center" bgcolor="#0d1117">
@@ -53,7 +55,9 @@ C++20 multi-hop VPN · TLS 1.3
 
 <br><br>
 
-<a href="https://github.com/olwpackages/S1lent---Protocol">Open repository</a>
+<a href="https://github.com/olwpackages/S1lent---Protocol">
+<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=flat&logo=github&logoColor=white" alt="Open repository">
+</a>
 
 </td>
 </tr>
