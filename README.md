@@ -50,16 +50,9 @@ Minimalist VPN client for NixOS · Electron · sing-box
 </td>
 </tr>
 <tr>
-<td align="center" bgcolor="#1677ff">
-
-<b>🔐 S1lent Protocol</b>
-
-</td>
-</tr>
-<tr>
 <td align="center" bgcolor="#0d1117">
 
-Experimental C++20 encrypted overlay for IPv4 and IPv6 · TLS 1.3 · AES-256-GCM · UDP relay nodes
+<b>🔐 S1lent Protocol</b> · C++20 multi-hop VPN · TLS 1.3 · AES-GCM
 
 <br>
 
