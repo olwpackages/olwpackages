@@ -28,37 +28,32 @@
 
 <div align="center">
 
-<table width="560" cellpadding="0" cellspacing="0">
+<table cellpadding="6" cellspacing="8">
 <tr>
-<td align="center" bgcolor="#1677ff">
+<td width="260" align="center" bgcolor="#0d1117">
 
 <b>📖 NixVPN</b>
 
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#0d1117">
+<br>
 
-Minimalist VPN client for NixOS · Electron · sing-box
+VPN client for NixOS · Electron
+
+<br><br>
+
+<a href="https://github.com/olwpackages/Nixvpn">Open repository</a>
+
+</td>
+<td width="260" align="center" bgcolor="#0d1117">
+
+<b>🔐 S1lent Protocol</b>
 
 <br>
 
-<a href="https://github.com/olwpackages/Nixvpn">
-<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=flat&logo=github&logoColor=white" alt="Open repository">
-</a>
+C++20 multi-hop VPN · TLS 1.3
 
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#0d1117">
+<br><br>
 
-<b>🔐 S1lent Protocol</b> · C++20 multi-hop VPN · TLS 1.3 · AES-GCM
-
-<br>
-
-<a href="https://github.com/olwpackages/S1lent---Protocol">
-<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=flat&logo=github&logoColor=white" alt="Open repository">
-</a>
+<a href="https://github.com/olwpackages/S1lent---Protocol">Open repository</a>
 
 </td>
 </tr>
