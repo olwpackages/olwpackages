@@ -49,6 +49,26 @@ Minimalist VPN client for NixOS · Electron · sing-box
 
 </td>
 </tr>
+<tr>
+<td align="center" bgcolor="#1677ff">
+
+<b>🔐 S1lent Protocol</b>
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0d1117">
+
+Experimental C++20 encrypted overlay for IPv4 and IPv6 · TLS 1.3 · AES-256-GCM · UDP relay nodes
+
+<br>
+
+<a href="https://github.com/olwpackages/S1lent---Protocol">
+<img src="https://img.shields.io/badge/Open%20repository-1677ff?style=flat&logo=github&logoColor=white" alt="Open repository">
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
