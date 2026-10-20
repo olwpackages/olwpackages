@@ -20,5 +20,6 @@
 
 <a href="https://fakecrime.bio/olw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Bio"></picture></a>&nbsp;&nbsp;<a href="https://github.com/olwpackages?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>&nbsp;&nbsp;<a href="https://nemuritv.xyz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="auto" alt="nemuritv.xyz"></picture></a>
 
+<a href="https://metawka.github.io/expressive-profile/?from=olwpackages"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
