@@ -148,7 +148,8 @@
     ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": true,
+    "shape": "soft"
   },
   "buttons": {
     "items": [
