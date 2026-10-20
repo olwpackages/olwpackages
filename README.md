@@ -12,7 +12,7 @@
 
 <a href="https://github.com/olwpackages/Nixvpn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nixvpn-dark.svg"><img src="assets/project-nixvpn-light.svg" width="49%" alt="Nixvpn"></picture></a>&nbsp;<a href="https://github.com/olwpackages/S1lent---Protocol"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-s1lent-protocol-dark.svg"><img src="assets/project-s1lent-protocol-light.svg" width="49%" alt="S1lent---Protocol"></picture></a>
 
-<a href="https://github.com/olwpackages/Dopamine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dopamine-dark.svg"><img src="assets/project-dopamine-light.svg" width="49%" alt="Dopamine"></picture></a>
+<a href="https://github.com/olwpackages/Dopamine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dopamine-dark.svg"><img src="assets/project-dopamine-light.svg" width="49%" alt="Dopamine"></picture></a>&nbsp;<a href="https://github.com/olwpackages/Metel-Horror-Escape-Cheat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-metel-horror-escape-cheat-dark.svg"><img src="assets/project-metel-horror-escape-cheat-light.svg" width="49%" alt="Metel-Horror-Escape-Cheat"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

@@ -108,9 +108,19 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "source": "manual",
+    "repos": [
+      "Nixvpn",
+      "S1lent---Protocol",
+      "Dopamine",
+      "Metel-Horror-Escape-Cheat"
+    ],
+    "overrides": {
+      "Metel-Horror-Escape-Cheat": {
+        "text": "MelonLoader mod menu for Metel: Horror Escape.",
+        "icon": "sports_esports"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
