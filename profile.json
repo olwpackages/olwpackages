@@ -140,10 +140,6 @@
       {
         "icon": "brand:discord",
         "url": "https://discord.com/"
-      },
-      {
-        "icon": "dark_mode",
-        "url": "nemuritv.xyz"
       }
     ],
     "variant": "chip",
@@ -163,6 +159,12 @@
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
+        "style": "tonal"
+      },
+      {
+        "icon": "dark_mode",
+        "label": "nemuritv.xyz",
+        "url": "https://nemuritv.xyz/",
         "style": "tonal"
       }
     ]
