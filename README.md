@@ -10,6 +10,8 @@
 
 <a href="https://github.com/olwpackages/Nixvpn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nixvpn-dark.svg"><img src="assets/project-nixvpn-light.svg" width="49%" alt="Nixvpn"></picture></a>&nbsp;<a href="https://github.com/olwpackages/S1lent---Protocol"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-s1lent-protocol-dark.svg"><img src="assets/project-s1lent-protocol-light.svg" width="49%" alt="S1lent---Protocol"></picture></a>
 
+<a href="https://github.com/olwpackages/Dopamine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dopamine-dark.svg"><img src="assets/project-dopamine-light.svg" width="49%" alt="Dopamine"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
