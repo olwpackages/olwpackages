@@ -8,13 +8,13 @@
   "iconFill": true,
   "order": [
     "hero",
+    "wave",
     "socials",
     "stack",
     "about",
     "projects",
     "stats",
     "streak",
-    "wave",
     "buttons"
   ],
   "hidden": [],
