@@ -1,5 +1,5 @@
 {
- "key": "cd1b833c",
+ "key": "d6005ddb",
  "stars": 3,
  "contributions": 29,
  "repos": 5,
@@ -134,9 +134,13 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
